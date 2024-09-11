@@ -2,7 +2,7 @@
 
 Card Clash is an fast-paced strategy game where players engage in card-based battles, using their wit and tactics to outmaneuver opponents. Each player is dealt a hand of unique cards, including power-ups, that can dramatically change the outcome of each round. The objective is simple: outscore your opponent after 8 rounds of play to claim victory.
 
-This project was developed as part of a group assignment during my B.Tech at Dayananda Sagar University. We used the Pygame library to handle the graphics and game logic. The project was a collaborative effort with my teammates Prajwal, Sharath, and Rishab.
+This project was developed as part of a group assignment during my B.Tech at Dayananda Sagar University. We used the Pygame library to handle the graphics and game logic. The project was a collaborative effort with my teammates Prajwal, Sharath, and Rishab. We also participated in TECHNOVATION 2018 with this project and proudly secured 2nd place.
 
 ## **Key Features**
 
